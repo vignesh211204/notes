@@ -1,0 +1,15 @@
+flash memory boot
+sd card boot
+c-file
+h -headerfile
+
+
+       flash                                               ram
+      
+       rfs                                                 
+       zimage
+       dtb                                               dtb
+       u-boot
+       shiudh
+
+                                                         bootrom            sram
