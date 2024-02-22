@@ -1,0 +1,24 @@
+serial communication
+    sender recivier
+parallel communication
+     sender recivier
+
+
+parallel - 8bits data is transferred the same time
+serial -    8bits data is transferred one bit at a time
+
+uart
+usart
+duplex
+simplex
+halfduplex
+fullduplex
+mode
+    rx-tx
+word length
+hard ware control
+00-input
+01-output
+10-alternative
+10
+11
