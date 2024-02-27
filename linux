@@ -1,0 +1,13 @@
+Linux:
+    * 1983 was started by richard stallman
+    * GNU is called as GNU not unix
+    * it is open source software
+    * goal is used to create free software operating system
+    * linux kernel started by linux torvalds in 1991
+    * together linux and gnu formed the first completely free software
+red hate
+shell commands
+    * sudo su 
+    ~ path
+relative path,absolute path:~/d,$cd../d1/d2/d3
+rm-rf to remove multiple folders
